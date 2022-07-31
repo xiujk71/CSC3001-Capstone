@@ -27,3 +27,6 @@ Run presentation demo:
 1. Run ml_svm_linear_demo.
 2. Key in id and key_value to query.
 3. Will start training every 5 queries.
+
+Dataset obtained from twitter-trace:
+https://github.com/twitter/cache-trace
